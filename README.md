@@ -65,8 +65,8 @@ Following the instructions used to create the dataset.
 
 Visualisation in more detail can be found in `./notebooks/visualise_data.ipynb`
 
-### Our Model
-#### Dependencies
+## Our Model
+### Dependencies
 1. Install [miniconda](https://conda.io/projects/conda/en/latest/user-guide/install/) to set up the environment.
 
 2. Create and activate environment from the provided file environment.yml.
@@ -89,7 +89,7 @@ Visualisation in more detail can be found in `./notebooks/visualise_data.ipynb`
 * Nvidia GeForce RTX 3090 GPU
 * CUDA 11.1
 
-## Get the Model Weights
+### Get the Model Weights
 Run the script `output/model_weights/download_model.sh` to obtain the model weights. Models can be found in
 * Full model : `output/model_weights/20220720-203907_l_5e-05_n_5_a_None`
 * With ResNet ablation : `output/model_weights/20220723-161557_l_5e-05_n_5_a_resnet`
