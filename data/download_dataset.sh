@@ -8,7 +8,7 @@ unzip train.zip
 rm train.zip
 
 echo download val.zip
-wget https://www.dropbox.com/s/bw4uhwlnkamq4rd/val.zip
+wget https://www.dropbox.com/s/bw4uhwlnkamq4rd/val.zip?dl=1
 unzip val.zip
 rm val.zip
 
