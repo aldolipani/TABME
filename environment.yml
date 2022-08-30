@@ -1,0 +1,52 @@
+name: tabme
+channels:
+  - defaults
+dependencies:
+  - defaults/linux-64::_libgcc_mutex==0.1=main
+  - defaults/linux-64::ca-certificates==2021.10.26=h06a4308_2
+  - defaults/linux-64::ld_impl_linux-64==2.35.1=h7274673_9
+  - defaults/linux-64::libstdcxx-ng==9.3.0=hd4cf53a_17
+  - defaults/noarch::tzdata==2021e=hda174b7_0
+  - defaults/linux-64::libgomp==9.3.0=h5101ec6_17
+  - defaults/linux-64::_openmp_mutex==4.5=1_gnu
+  - defaults/linux-64::libgcc-ng==9.3.0=h5101ec6_17
+  - defaults/linux-64::libffi==3.3=he6710b0_2
+  - defaults/linux-64::libsodium==1.0.18=h7b6447c_0
+  - defaults/linux-64::ncurses==6.3=h7f8727e_2
+  - defaults/linux-64::openssl==1.1.1m=h7f8727e_0
+  - defaults/linux-64::xz==5.2.5=h7b6447c_0
+  - defaults/linux-64::zlib==1.2.11=h7f8727e_4
+  - defaults/linux-64::readline==8.1.2=h7f8727e_1
+  - defaults/linux-64::tk==8.6.11=h1ccaba5_0
+  - defaults/linux-64::zeromq==4.3.4=h2531618_0
+  - defaults/linux-64::sqlite==3.37.0=hc218d9a_0
+  - defaults/linux-64::python==3.9.7=h12debd9_1
+  - defaults/noarch::backcall==0.2.0=pyhd3eb1b0_0
+  - defaults/linux-64::certifi==2021.10.8=py39h06a4308_2
+  - defaults/linux-64::debugpy==1.5.1=py39h295c915_0
+  - defaults/noarch::decorator==5.1.0=pyhd3eb1b0_0
+  - defaults/linux-64::entrypoints==0.3=py39h06a4308_0
+  - defaults/noarch::ipython_genutils==0.2.0=pyhd3eb1b0_1
+  - defaults/noarch::nest-asyncio==1.5.1=pyhd3eb1b0_0
+  - defaults/noarch::parso==0.8.3=pyhd3eb1b0_0
+  - defaults/noarch::pickleshare==0.7.5=pyhd3eb1b0_1003
+  - defaults/noarch::ptyprocess==0.7.0=pyhd3eb1b0_2
+  - defaults/linux-64::pyzmq==22.3.0=py39h295c915_2
+  - defaults/noarch::six==1.16.0=pyhd3eb1b0_0
+  - defaults/linux-64::tornado==6.1=py39h27cfd23_0
+  - defaults/noarch::traitlets==5.1.1=pyhd3eb1b0_0
+  - defaults/noarch::wcwidth==0.2.5=pyhd3eb1b0_0
+  - defaults/noarch::wheel==0.37.1=pyhd3eb1b0_0
+  - defaults/linux-64::jedi==0.18.0=py39h06a4308_1
+  - defaults/linux-64::jupyter_core==4.9.1=py39h06a4308_0
+  - defaults/noarch::matplotlib-inline==0.1.2=pyhd3eb1b0_2
+  - defaults/noarch::pexpect==4.8.0=pyhd3eb1b0_3
+  - defaults/noarch::prompt-toolkit==3.0.20=pyhd3eb1b0_0
+  - defaults/noarch::python-dateutil==2.8.2=pyhd3eb1b0_0
+  - defaults/linux-64::setuptools==58.0.4=py39h06a4308_0
+  - defaults/noarch::jupyter_client==7.1.0=pyhd3eb1b0_0
+  - defaults/linux-64::pip==21.2.4=py39h06a4308_0
+  - defaults/noarch::pygments==2.10.0=pyhd3eb1b0_0
+  - defaults/linux-64::ipython==7.29.0=py39hb070fc8_0
+  - defaults/linux-64::ipykernel==6.4.1=py39h06a4308_1
+prefix: /home/giftbear/miniconda3/envs/tabme

@@ -1,0 +1,22 @@
+**/_*
+data/train
+data/val
+data/test
+data/tobacco800
+.idea
+.DS_Store
+.ipynb_checkpoints
+
+# Cache
+**/*.hdf5
+
+# Model weights
+output/model_weights/*
+!output/model_weights/download_model.sh
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
